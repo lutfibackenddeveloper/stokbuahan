@@ -1,0 +1,12 @@
+/* styles.css */
+.sidebar {
+  background-color: #00008B; /* Warna biru tua */
+}
+
+.sidebar .nav-link {
+  color: white;
+}
+
+.sidebar .nav-link.active {
+  color: white;
+}
